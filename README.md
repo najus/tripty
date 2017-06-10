@@ -1,1 +1,1 @@
-# tripty
+# Tripty Landing Page
